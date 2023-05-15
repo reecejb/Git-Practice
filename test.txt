@@ -7,3 +7,6 @@ ctrl-v # paste
 ctrl-a # highlight everyone
 
 # -- add -- commit -- pull -- push --
+
+Git is used for version control!
+Git is important for your future work experience!
